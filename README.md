@@ -1,4 +1,4 @@
-# Bash-Shell-in-C
+ # C-Based Linux Shell
 An attempt to make a bash shell using the C language libraries and **system calls**.
 
 ## TO RUN
