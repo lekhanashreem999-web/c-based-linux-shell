@@ -1,2 +1,9 @@
-# c-based-linux-shell
-A custom Linux shell implemented in C featuring command parsing, process management, piping, input/output redirection, and background execution.
+# Bash-Shell-in-C
+An attempt to make a bash shell using the C language libraries and **system calls**.
+
+## TO RUN
+On your Bash Terminal run
+```
+>  make
+> ./shell
+```
