@@ -28,3 +28,42 @@ On your Bash Terminal run
 >  make
 > ./shell
 ```
+## Demo
+
+### Compilation and Execution
+
+This demonstrates compiling the shell using `make` and launching the executable.
+
+![Compilation](screenshots/demo1.png)
+
+---
+
+### Basic Shell Commands
+
+The shell successfully executes commands such as `echo`, `mkdir`, `ls`, and `rmdir`.
+
+![Basic Commands](screenshots/demo2.png)
+
+---
+
+### File Operations
+
+Demonstration of creating and reading files using built-in shell commands.
+
+![File Operations](screenshots/demo3.png)
+
+---
+
+### Additional Shell Operations
+
+Examples of command execution and directory operations.
+
+![Shell Operations](screenshots/demo4.png)
+
+---
+
+### Built-in Commands
+
+Execution of built-in commands such as `pwd` and `date`.
+
+![Built-in Commands](screenshots/demo5.png)
